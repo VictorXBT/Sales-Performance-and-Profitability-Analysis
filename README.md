@@ -1,4 +1,4 @@
-# Sales Performance and Profitability Analysis
+# Sales Performance & Profitability Analysis
 
 ## Project Overview
 
