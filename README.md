@@ -13,7 +13,7 @@ The goal is to identify key business trends, understand what drives profitabilit
 - **DAX:** Creating measures and calculating key performance indicators (KPIs).
 - **AdventureWorks Dataset:** Source of the sales, product, customer, reseller, date, and territory data.
 
-- ## Dashboard Preview
+## Dashboard Preview
 
 ![Sales Performance & Profitability Analysis Dashboard](<Sales Performance & Profitability Analysis.png>)
 
